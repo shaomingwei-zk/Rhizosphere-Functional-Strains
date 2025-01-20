@@ -1,0 +1,37 @@
+
+
+Forms_Biofilms
+Number of samples in each treatment group:
+
+2019_CK  2019_T 2020_CK  2020_T 
+      3       3       3       3 
+
+Proportion with phenotype (mean):
+  2019_CK    2019_T   2020_CK    2020_T 
+0.8886113 0.9157987 0.8909649 0.8752605 
+
+Proportion with phenotype (median):
+  2019_CK    2019_T   2020_CK    2020_T 
+0.8839334 0.9226631 0.8961382 0.9085067 
+
+Standard deviation:
+   2019_CK     2019_T    2020_CK     2020_T 
+0.06445966 0.02154000 0.05299923 0.07073677 
+
+Pairwise Mann-Whitney-Wilcoxon Tests were performed.
+Pairwise p-values are:
+ 2019_CK_vs_2019_T 2019_CK_vs_2020_CK  2019_CK_vs_2020_T  2019_T_vs_2020_CK 
+               0.7                1.0                1.0                1.0 
+  2019_T_vs_2020_T  2020_CK_vs_2020_T 
+               0.7                1.0 
+
+FDR-corrected pairwise p-values are:
+ 2019_CK_vs_2019_T 2019_CK_vs_2020_CK  2019_CK_vs_2020_T  2019_T_vs_2020_CK 
+                 1                  1                  1                  1 
+  2019_T_vs_2020_T  2020_CK_vs_2020_T 
+                 1                  1 
+
+Kruskal-Wallis Test was performed.
+
+Group p-value is:
+0.9103639 

@@ -1,0 +1,7 @@
+compare	Aerobic	Anaerobic	Contains_Mobile_Elements	Facultatively_Anaerobic	Forms_Biofilms	Gram_Negative	Gram_Positive	Potentially_Pathogenic	Stress_Tolerant
+2019_CK_vs_2019_T	0.7	0.7	0.4	0.7	0.7	1	1	1	1
+2019_CK_vs_2020_CK	0.7	0.1	0.7	0.7	1	1	1	0.7	1
+2019_CK_vs_2020_T	1	0.7	1	0.1	1	0.4	0.4	0.4	0.2
+2019_T_vs_2020_CK	0.7	0.2	0.4	0.4	1	1	1	0.2	1
+2019_T_vs_2020_T	1	0.7	0.4	0.2	0.7	0.7	0.7	0.2	0.4
+2020_CK_vs_2020_T	0.7	0.4	0.7	0.7	1	0.7	0.7	0.4	0.4

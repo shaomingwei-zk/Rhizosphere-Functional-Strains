@@ -1,0 +1,37 @@
+
+
+Gram_Negative
+Number of samples in each treatment group:
+
+2019_CK  2019_T 2020_CK  2020_T 
+      3       3       3       3 
+
+Proportion with phenotype (mean):
+  2019_CK    2019_T   2020_CK    2020_T 
+0.7153323 0.7265486 0.7169204 0.6737810 
+
+Proportion with phenotype (median):
+  2019_CK    2019_T   2020_CK    2020_T 
+0.7540584 0.6976973 0.7366000 0.6932435 
+
+Standard deviation:
+   2019_CK     2019_T    2020_CK     2020_T 
+0.06971091 0.06283627 0.11680296 0.04381243 
+
+Pairwise Mann-Whitney-Wilcoxon Tests were performed.
+Pairwise p-values are:
+ 2019_CK_vs_2019_T 2019_CK_vs_2020_CK  2019_CK_vs_2020_T  2019_T_vs_2020_CK 
+               1.0                1.0                0.4                1.0 
+  2019_T_vs_2020_T  2020_CK_vs_2020_T 
+               0.7                0.7 
+
+FDR-corrected pairwise p-values are:
+ 2019_CK_vs_2019_T 2019_CK_vs_2020_CK  2019_CK_vs_2020_T  2019_T_vs_2020_CK 
+                 1                  1                  1                  1 
+  2019_T_vs_2020_T  2020_CK_vs_2020_T 
+                 1                  1 
+
+Kruskal-Wallis Test was performed.
+
+Group p-value is:
+0.7888459 

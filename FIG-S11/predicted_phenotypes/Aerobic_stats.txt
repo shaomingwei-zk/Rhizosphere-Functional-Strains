@@ -1,0 +1,37 @@
+
+
+Aerobic
+Number of samples in each treatment group:
+
+2019_CK  2019_T 2020_CK  2020_T 
+      3       3       3       3 
+
+Proportion with phenotype (mean):
+  2019_CK    2019_T   2020_CK    2020_T 
+0.7076709 0.7427490 0.7665698 0.7081264 
+
+Proportion with phenotype (median):
+  2019_CK    2019_T   2020_CK    2020_T 
+0.7223082 0.7480821 0.7648837 0.7395734 
+
+Standard deviation:
+   2019_CK     2019_T    2020_CK     2020_T 
+0.08551277 0.05086920 0.04672342 0.11650235 
+
+Pairwise Mann-Whitney-Wilcoxon Tests were performed.
+Pairwise p-values are:
+ 2019_CK_vs_2019_T 2019_CK_vs_2020_CK  2019_CK_vs_2020_T  2019_T_vs_2020_CK 
+               0.7                0.7                1.0                0.7 
+  2019_T_vs_2020_T  2020_CK_vs_2020_T 
+               1.0                0.7 
+
+FDR-corrected pairwise p-values are:
+ 2019_CK_vs_2019_T 2019_CK_vs_2020_CK  2019_CK_vs_2020_T  2019_T_vs_2020_CK 
+                 1                  1                  1                  1 
+  2019_T_vs_2020_T  2020_CK_vs_2020_T 
+                 1                  1 
+
+Kruskal-Wallis Test was performed.
+
+Group p-value is:
+0.8260465 
